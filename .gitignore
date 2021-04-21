@@ -1,0 +1,6 @@
+/NSLKDD-Dataset
+/NSLKDD-Dataset/*
+/KDDTest+.csv
+/KDDTrain+.csv
+/*.csv#
+/env
